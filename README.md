@@ -11,7 +11,7 @@ Mirrored at https://github.com/fasterit/roundcube_calendar
 
 Roundcube is an awesome web mailer and a good platform for calendaring as the work from
 Kolab Systems AG shows. Their Roundcube plugins (primarily developed to support the
-Kolab Groupware server) have been extended by "Awesome IT" (a GbR out for Karlsruhe, Germany)
+Kolab Groupware server) have been extended by "Awesome IT" (a GbR out of Karlsruhe, Germany)
 to support CalDAV calendars.
 
 Getting this all to work is a bit of a hassle so we - Faster IT GmbH - decided to
