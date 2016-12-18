@@ -16,7 +16,7 @@ to support CalDAV calendars.
 
 Getting this all to work is a bit of a hassle so we - Faster IT GmbH - decided to
 combine the various parts into a distribution when we were asked to implement this for a nonprofit company.
-For the public benefit we re-publish the work under the origiginal AGPLv3+ license.
+For the public benefit we re-publish the work under the original AGPLv3+ license.
 
 This version is compatible with the [rcmcarddav plugin](https://github.com/blind-coder/rcmcarddav)
 from [Benjamin Schieder](http://www.benjamin-schieder.de/carddav.html).    
@@ -101,3 +101,6 @@ See `/var/www/htdocs/roundcube/logs/` for errors.
 
 There is none. Really. This code is not for the faint of heart.    
 Patches welcome.
+
+We're looking to create / accept the next round of patches at the end of January 2017 when we have the next budget available from a customer to work on this.
+Happy holidays!
