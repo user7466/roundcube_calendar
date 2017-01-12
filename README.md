@@ -38,7 +38,7 @@ of your roundcube installation:
 
     $ git clone git://github.com/fasterit/roundcube_calendar.git
     $ cd roundcube_calendar
-    $ cd -r calendar/ libcalendaring/ /var/www/htdocs/roundcube/plugins/ # adjust as needed
+    $ cp -r calendar/ libcalendaring/ /var/www/htdocs/roundcube/plugins/ # adjust as needed
 
 Copy and edit the supplied config.inc.php.dist:
 
