@@ -101,6 +101,3 @@ See `/var/www/htdocs/roundcube/logs/` for errors.
 
 There is none. Really. This code is not for the faint of heart.    
 Patches welcome.
-
-We're looking to create / accept the next round of patches at the beginning of March 2017 when we have the next budget available from a customer to work on this.
-Happy holidays!
